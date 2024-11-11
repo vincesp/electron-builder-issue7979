@@ -1,0 +1,9 @@
+appId: com.github.gist.b3486b9395a8409ad7a6b1a8a4a07dce
+productName: ElectronBuilderMSIBugDemo
+directories:
+  buildResources: build
+files:
+  - out/
+  - dist/
+win:
+  target: msi

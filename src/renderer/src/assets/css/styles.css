@@ -1,0 +1,18 @@
+#app {
+  height: 100%;
+  color: var(--text-primary);
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+table thead {
+  position: sticky;
+  top: 0;
+  background-color: #f1f1f1;
+}
+
+.--hl {
+  background-color: yellow;
+}
